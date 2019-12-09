@@ -88,7 +88,7 @@
                     unselectedLanguageAlert : "錯誤：請選擇代碼所屬的語言類型。",
                     codeEmptyAlert    : "錯誤：請填寫代碼內容。",
                     placeholder:      : "coding now...."
-                },
+                }, 
                 htmlEntities : {
                     title : "HTML實體字符"
                 },
